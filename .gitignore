@@ -1,0 +1,11 @@
+# Secretos — NUNCA al repositorio
+.env
+.cloudflared/*.json
+
+# Datos
+backend/data/
+*/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
