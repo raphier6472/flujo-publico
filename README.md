@@ -6,7 +6,7 @@
 
 [![Dashboard](docs/screenshots/Dashboard mensual.png)
 [![Prespuesto?mensual](docs/screenshots/Presupuesto mensual.png)
-[![Presupuesto_movil](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docker.com)
+[![Presupuesto_movil](docs/screenshots/Presupuesto Movil.png)
 [![Gestion_Usuarios](docs/screenshots/Gestion de usuarios.png)
 
 App de control financiero personal construida desde cero.
