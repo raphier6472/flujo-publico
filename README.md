@@ -4,10 +4,10 @@
 
 **Dashboard financiero personal · Self-hosted · Open source**
 
-[![Dashboard](docs/screenshots/Dashboard mensual.png)
-[![Prespuesto?mensual](docs/screenshots/Presupuesto mensual.png)
-[![Presupuesto_movil](docs/screenshots/Presupuesto Movil.png)
-[![Gestion_Usuarios](docs/screenshots/Gestion de usuarios.png)
+![Dashboard](docs/screenshots/dashboard.png)
+![Presupuesto](docs/screenshots/presupuesto.png)
+![Móvil](docs/screenshots/movil.png)
+![Usuarios](docs/screenshots/usuarios.png)
 
 App de control financiero personal construida desde cero.
 Corre en infraestructura propia, sin servicios de terceros para los datos.
