@@ -2,7 +2,7 @@ FROM node:20-alpine AS deps
 WORKDIR /app
 # better-sqlite3 native module deps — must be present during npm install
 RUN apk add --no-cache python3 make g++
-COPY package.json package-lock.json ./
+COPY package.json ./
 RUN npm install --omit=dev
 
 FROM node:20-alpine
